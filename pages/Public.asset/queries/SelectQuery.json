@@ -2,7 +2,7 @@
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
-    "name": "SelectQuery",
+    "name": "SelectQueryy",
     "datasource": {
       "name": "Mock_DB",
       "pluginId": "postgres-plugin",
