@@ -1983,7 +1983,7 @@
                 "data_table.sortOrder.column || 'id'",
                 "data_table.sortOrder.order || 'ASC'"
               ],
-              "timeoutInMillisecond": 10000
+              "timeoutInMillisecond": 100000
             }
           ]
         ],
