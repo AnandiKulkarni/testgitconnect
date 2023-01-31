@@ -1972,7 +1972,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Public.asset_SelectQuery",
+              "id": "Public.asset_SelectQueryy",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
