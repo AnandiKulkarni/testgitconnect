@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 71,
+          "version": 76,
           "minHeight": 970,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -1914,6 +1914,7 @@
                                       "image": "{{currentItem.image}}",
                                       "rightColumn": 23,
                                       "objectFit": "cover",
+                                      "dynamicHeight": "FIXED",
                                       "widgetId": "rs070rysz3",
                                       "logBlackList": {
                                         "isVisible": true,

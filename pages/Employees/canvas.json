@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 71,
+          "version": 76,
           "minHeight": 970,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -1727,6 +1727,7 @@
                                       "isDeprecated": false,
                                       "rightColumn": 11,
                                       "iconName": "person",
+                                      "dynamicHeight": "FIXED",
                                       "widgetId": "d64r2m7h5l",
                                       "logBlackList": {
                                         "isVisible": true,
@@ -3660,6 +3661,7 @@
                                       "isDeprecated": false,
                                       "rightColumn": 15,
                                       "objectFit": "cover",
+                                      "dynamicHeight": "FIXED",
                                       "widgetId": "jt0y18yk2e",
                                       "logBlackList": {
                                         "isVisible": true,
@@ -3942,8 +3944,8 @@
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
-                "employeeList.selectedItem.first_name",
-                "(assetsAssigned.pageNo - 1) * assetsAssigned.pageSize"
+                "(assetsAssigned.pageNo - 1) * assetsAssigned.pageSize",
+                "employeeList.selectedItem.first_name"
               ],
               "timeoutInMillisecond": 10000
             },
